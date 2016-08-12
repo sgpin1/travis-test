@@ -1,0 +1,3 @@
+script:
+  - echo "Testing testing testing"
+  - true
